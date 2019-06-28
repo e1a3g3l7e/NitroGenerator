@@ -25,10 +25,10 @@ return results;
 }
 if(message.content.startsWith(".nitro")){
     const genEmbed = new Discord.RichEmbed()
-        .setColor('#000')
-        .setThumbnail(client.user.displayAvatarURL)
+        .setColor('78FF00')
+        .setThumbnail(https://cdn.discordapp.com/attachments/592064932044996629/592369622049619979/gifvert.gif)
         .addField("Gift :", "|| https:/"+"/discord.gift/" + nitrocode(16,'0aA') +" ||")
     message.channel.type === ("dm") + message.channel.sendMessage(genEmbed);
-    message.channel.sendMessage("Nitro sent :D");
+    message.channel.sendMessage("Sent :)");
     }
 });
