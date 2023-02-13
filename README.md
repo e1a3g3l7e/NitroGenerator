@@ -3,5 +3,5 @@
 > JS
 
 ```
-JavaScript bot creating nitro random codes.
+JavaScript bot creating automatic random discord nitro codes.
 ```
